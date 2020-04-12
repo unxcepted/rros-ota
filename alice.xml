@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <alice>
-            <Filename></Filename>
+            <Filename>RR-N-v5.8.5-20200412-alice-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build"></RomUrl>
+                description="20200412 OTA test">https://github.com/unxcepted/rros-ota/releases/download/20200412/RR-N-v5.8.5-20200412-alice-Unofficial.zip</RomUrl>
 	    </alice>
     </Stable>
 </SlimOTA>
